@@ -1,6 +1,6 @@
 {
 	"name": "cta-publish-testing",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Testing the CTA publish flow with rulesets.",
 	"repository": {
 		"type": "git",
