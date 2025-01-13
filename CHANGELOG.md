@@ -1,3 +1,9 @@
+# [0.14.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.13.0...0.14.0) (2025-01-13)
+
+### Features
+
+- try again with just admin in ruleset ([cfacb10](https://github.com/JoshuaKGoldberg/cta-publish-testing/commit/cfacb10fcef7255f2c69dd570459209f0b9cc3cd))
+
 # [0.13.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.12.0...0.13.0) (2025-01-13)
 
 ### Features
