@@ -10,17 +10,14 @@ jobs:
           fetch-depth: 0
           ref: main
       - uses: ./.github/actions/prepare
-      - env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: |
+      - run: |
           git config --global user.email "github@joshuakgoldberg.com"
           git config --global user.name "Josh Goldberg ✨"
           npm config set //registry.npmjs.org/:_authToken $NPM_TOKEN
       - env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx release-it
+        run: npx release-it --verbose
 
 name: Release
 
