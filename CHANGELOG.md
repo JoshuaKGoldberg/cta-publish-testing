@@ -1,3 +1,9 @@
+# [0.13.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.12.0...0.13.0) (2025-01-13)
+
+### Features
+
+- try going back to release-it-action ([e40d384](https://github.com/JoshuaKGoldberg/cta-publish-testing/commit/e40d384d0160157939a13e342d13e83c3cd13265))
+
 # [0.12.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.11.1...0.12.0) (2025-01-13)
 
 ### Features
