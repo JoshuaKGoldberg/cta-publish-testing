@@ -1,3 +1,5 @@
+## [0.11.1](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.11.0...0.11.1) (2025-01-13)
+
 # [0.11.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.10.0...0.11.0) (2025-01-13)
 
 ### Features
