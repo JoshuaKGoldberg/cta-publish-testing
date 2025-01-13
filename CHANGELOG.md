@@ -1,3 +1,9 @@
+# [0.10.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.9.0...0.10.0) (2025-01-13)
+
+### Features
+
+- try de-syncing git config email ([1c487df](https://github.com/JoshuaKGoldberg/cta-publish-testing/commit/1c487dfaca9667f9c13bda70f624061b06307adc))
+
 # 0.9.0 (2025-01-13)
 
 ### Features
