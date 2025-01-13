@@ -1,3 +1,9 @@
+# [0.12.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.11.1...0.12.0) (2025-01-13)
+
+### Features
+
+- remove npm token from release-it run ([6616934](https://github.com/JoshuaKGoldberg/cta-publish-testing/commit/6616934aeef6162263c504e2796860a66ebe6328))
+
 ## [0.11.1](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.11.0...0.11.1) (2025-01-13)
 
 # [0.11.0](https://github.com/JoshuaKGoldberg/cta-publish-testing/compare/0.10.0...0.11.0) (2025-01-13)
