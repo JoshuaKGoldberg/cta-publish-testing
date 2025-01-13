@@ -17,9 +17,7 @@ jobs:
           git config --global user.email "git@joshuakgoldberg.com"
           git config --global user.name "Josh Goldberg ✨"
           npm config set //registry.npmjs.org/:_authToken $NPM_TOKEN
-      - env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: DEBUG=* npx release-it --verbose
+      - run: DEBUG=* npx release-it --verbose
 
 name: Release
 
