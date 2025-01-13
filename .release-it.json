@@ -3,11 +3,6 @@
 		"commitMessage": "chore: release v${version}",
 		"requireCommits": true
 	},
-	"github": {
-		"autoGenerate": true,
-		"release": true,
-		"releaseName": "v${version}"
-	},
 	"npm": { "publishArgs": ["--access public", "--provenance"] },
 	"plugins": {
 		"@release-it/conventional-changelog": {
