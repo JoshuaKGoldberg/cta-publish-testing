@@ -3,5 +3,5 @@
 	"entry": ["script/*e2e.js", "src/index.ts!", "src/**/*.test.*"],
 	"ignoreDependencies": ["all-contributors-cli", "cspell-populate-words"],
 	"ignoreExportsUsedInFile": { "interface": true, "type": true },
-	"project": ["src/**/*.ts!", "script/**/*.js"]
+	"project": "src/**/*.ts!"
 }
